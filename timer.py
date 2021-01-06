@@ -50,4 +50,4 @@ class Timer(object):
                 logger.info('时间到达，开始执行……')
                 break
             else:
-                time.sleep(self.sleep_interval)
+                # time.sleep(self.sleep_interval)
